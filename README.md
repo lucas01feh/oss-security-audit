@@ -15,7 +15,16 @@ Works against GitHub or GitLab. Read-only. The skill runs a preflight access che
 ## Install
 
 ```
+# Claude Code
 git clone https://github.com/backnotprop/oss-security-audit ~/.claude/skills/oss-security-audit
+```
+```
+# Codex
+git clone https://github.com/backnotprop/oss-security-audit ~/.codex/skills/oss-security-audit
+```
+```
+# Agents
+git clone https://github.com/backnotprop/oss-security-audit ~/.agents/skills/oss-security-audit
 ```
 
 ## Use
