@@ -1,6 +1,6 @@
 # oss-security-audit
 
-A Claude Code skill that audits an open-source repository's supply chain security posture and produces an HTML report.
+An agent skill that audits an open-source repository's supply chain security posture and produces an HTML report.
 
 Methodology is based on [Astral's OSS security framework](https://astral.sh) (April 2026), covering:
 
