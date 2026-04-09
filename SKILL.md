@@ -5,7 +5,7 @@ description: Audits the CI/CD pipeline, repository, release process, automations
 
 # OSS Security Audit
 
-Assess an open-source repository's supply chain security posture and produce an HTML report. The methodology is drawn from Astral's "Open source security at Astral" (April 2026), which distills hard-won practices from maintaining Ruff, uv, and ty in the wake of the Ultralytics, tj-actions, Nx, Trivy, and LiteLLM supply chain attacks.
+Assess an open-source repository's supply chain security posture and produce an HTML report. The methodology is drawn from Astral's ["Open source security at Astral"](https://astral.sh/blog/open-source-security-at-astral) (April 2026), which distills hard-won practices from maintaining Ruff, uv, and ty in the wake of the Ultralytics, tj-actions, Nx, Trivy, and LiteLLM supply chain attacks.
 
 The audit is LLM-driven. You are the auditor: there is no bundled scanner. Your job is to read the repo, query the forge (GitHub or GitLab) with whatever read-only tools are available, reason about the findings in the context of the framework below, and render a report.
 

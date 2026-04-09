@@ -2,7 +2,7 @@
 
 An agent skill that audits an open-source repository's supply chain security posture and produces an HTML report.
 
-Methodology is based on [Astral's OSS security framework](https://astral.sh) (April 2026), covering:
+Methodology is based on [Astral's OSS security framework](https://astral.sh/blog/open-source-security-at-astral) (April 2026), covering:
 
 1. CI/CD workflow security (triggers, action pinning, permissions, secret isolation)
 2. Repository and organizational controls (branch/tag rulesets, 2FA, admin bypass)
