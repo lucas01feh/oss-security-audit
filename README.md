@@ -20,9 +20,9 @@ git clone https://github.com/backnotprop/oss-security-audit ~/.claude/skills/oss
 
 ## Use
 
-In Claude Code, from inside the repo you want to audit:
+In Claude Code, or any other agent, from inside the repo you want to audit:
 
-> audit this repo's supply chain security
+> `/oss-security-audit`
 
 The skill triggers, walks through the five domains, and writes `oss-security-audit-report.html` to the repo root.
 
