@@ -31,7 +31,7 @@ git clone https://github.com/backnotprop/oss-security-audit ~/.agents/skills/oss
 
 ## Use
 
-In Claude Code, or any other agent, from inside the repo you want to audit:
+In an agent session, from inside the repo you want to audit:
 
 > `/oss-security-audit`
 
